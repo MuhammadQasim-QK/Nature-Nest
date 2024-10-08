@@ -18,4 +18,4 @@ Thank you for your understanding!
 ![Untitled design (14)](https://github.com/user-attachments/assets/373c7a79-f772-4c45-a938-cfef78c12f2d)
 
 Gif
-![smartmockups_m1zkd14z (1)](./smartmockups_m1zkd14z (1).gif)
+![smartmockups_m1zkd14z (1)](./smartmockups_m1zkd14z2.gif)
