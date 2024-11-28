@@ -6,7 +6,7 @@ Welcome to my project repository! This repository contains the code for [Nature 
 
 Important Note: Due to project privacy concerns, the repository is private, and the code is not publicly accessible. However, to provide a comprehensive overview of the project, I have included images in this README file.
 
-If you would like to discuss the project further or arrange a call to view the code, please feel free to email me at [dev.qasim03@gmail.com].
+If you would like to discuss the project further or arrange a call to view the code, please feel free to email me at [dev.qasim3@gmail.com].
 
 Thank you for your understanding!
 
